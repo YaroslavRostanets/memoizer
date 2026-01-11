@@ -50,4 +50,3 @@ c := cache.New()
 * Delete(key string) — removes a key
 * Close() - stops the channel to check for outdated records
 
-## UPD
